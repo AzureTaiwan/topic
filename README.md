@@ -20,7 +20,7 @@ Azure Taiwan 主要是技術經驗分享交流，
 
 |日期|講者|主題|投影片|
 |----|----|----|----|
-|11/06|Rick Chiang|Azure Container Service 使用 DC/OC 管理 docker 容器叢集|-|
+|11/06|Rick Chiang|Azure Container Service 使用 DC/OC 管理 docker 容器|-|
 |1/?|[我可以分享](https://www.facebook.com/messages/mrsunboss)|||
 |2/?|[我可以分享](https://www.facebook.com/messages/mrsunboss)|||
 |3/?|[我可以分享](https://www.facebook.com/messages/mrsunboss)|||
