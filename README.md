@@ -10,6 +10,12 @@ Azure Taiwan 主要是技術經驗分享交流，
 
 我們會來安排下次講者可能就是你。
 
+* Machine Learning
+* Event Hub
+* Date lake
+* Azure Active Directory
+* ....
+
 ## 未來主題
 
 |日期|講者|主題|投影片|
@@ -19,9 +25,3 @@ Azure Taiwan 主要是技術經驗分享交流，
 |2/?|[我可以分享](https://www.facebook.com/messages/mrsunboss)|||
 |3/?|[我可以分享](https://www.facebook.com/messages/mrsunboss)|||
 |4/?|[我可以分享](https://www.facebook.com/messages/mrsunboss)||||
-
-#Machine Learning
-#Event Hub
-#Date lake
-#Azure Active Directory
-#....
