@@ -25,7 +25,6 @@ Azure Taiwan 主要是技術經驗分享交流，
 
 |Date|Speaker|Topic|Slide|
 |----|----|----|----|
-|May/?/17|[我可以分享](https://www.facebook.com/messages/t/mrsunboss)||||
 |Jun/?/17|[我可以分享](https://www.facebook.com/messages/t/mrsunboss)||||
 |Jul/?/17|[我可以分享](https://www.facebook.com/messages/t/mrsunboss)||||
 |Aug/?/17|[我可以分享](https://www.facebook.com/messages/t/mrsunboss)||||
@@ -37,6 +36,7 @@ Azure Taiwan 主要是技術經驗分享交流，
 ## Past Topic
 |Date|Speaker|Topic|Slide|
 |----|----|----|----|
+|May/24/17||||<br>
 |Apr/26/17|[張峰睿]()|Data warehouse on Azure using hadoop ecosystem|[View](https://doc.co/8AYkSP)|<br>
 |Mar/22/17|[Bart Verkoeijen](https://www.meetup.com/Microsoft-Developers-HK/members/75304842/)<br/><br/>[Wei-Ting SHIH](https://driftmind.azurewebsites.net)|Topic1：<br/>How to setup a multi-tenant web app with Azure App Services, Auth topics such as single sign-on and multi-tenant identity framework implementation.<br/><br/>Topic2：<br/>Using bot framework creating multi-channel(FB messenger, telegram) bot combining Taiwanese government open data demo|<br/>[Topic2](https://www.slideshare.net/WeitingShih/microsoft-bot-framework-demo)|<br>
 |Feb/22/17|[Rita Zhang](https://twitter.com/ritazzhang) <br/><br/> [Bhargav Nookala](https://twitter.com/bhargav)|Microsoft Bot Framework and Cognitive Services|[View](https://www.slideshare.net/ritaglm/building-blocks-for-building-bots)|
